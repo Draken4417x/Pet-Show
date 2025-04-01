@@ -10,4 +10,3 @@ Um site responsivo e interativo para uma plataforma pet, desenvolvido com HTML, 
 ## 📌 Tecnologias Utilizadas  
 - **HTML**: Estrutura do site  
 - **CSS**: Estilização e design  
-- **JavaScript**: Interatividade  
